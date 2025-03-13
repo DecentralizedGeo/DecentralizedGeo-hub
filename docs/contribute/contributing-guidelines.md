@@ -14,7 +14,7 @@ See our [Support Guide](./support.md). In short, GitHub issues are not the appro
 
 ## :inbox_tray: Opening an Issue
 
-Before [creating an issue](https://help.github.com/en/github/managing-your-work-on-github/creating-an-issue), check if you are using the latest version of the project. If you are not up-to-date, see if updating fixes your issue first.
+Before [creating an issue](https://help.github.com/en/github/managing-your-work-on-github/creating-an-issue){:target="_blank"}, check if you are using the latest version of the project. If you are not up-to-date, see if updating fixes your issue first.
 
 ### :lock: Reporting Security Issues
 
@@ -30,15 +30,15 @@ In short, since you are most likely a developer, **provide a ticket that you wou
 
 - **Do not open a duplicate issue!** Search through existing issues to see if your issue has previously been reported. If your issue exists, comment with any additional information you have. You may simply note "I have this problem too", which helps prioritize the most common problems and requests.
 
-- **Prefer using [reactions](https://github.blog/2016-03-10-add-reactions-to-pull-requests-issues-and-comments/)**, not comments, if you simply want to "+1" an existing issue.
+- **Prefer using [reactions](https://github.blog/2016-03-10-add-reactions-to-pull-requests-issues-and-comments/){:target="_blank"}**, not comments, if you simply want to "+1" an existing issue.
 
 - **Fully complete the provided issue template.** The bug report template requests all the information we need to quickly and efficiently address your issue. Be clear, concise, and descriptive. Provide as much information as you can, including steps to reproduce, stack traces, compiler errors, library versions, OS versions, and screenshots (if applicable).
 
-- **Use [GitHub-flavored Markdown](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax).** Especially put code blocks and console outputs in backticks (```). This improves readability.
+- **Use [GitHub-flavored Markdown](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax){:target="_blank"}.** Especially put code blocks and console outputs in backticks (```). This improves readability.
 
 ## :love_letter: Feature Requests
 
-Feature requests are welcome! While we will consider all requests, we cannot guarantee your request will be accepted. We want to avoid [feature creep](https://en.wikipedia.org/wiki/Feature_creep). Your idea may be great, but also out-of-scope for the project. If accepted, we cannot make any commitments regarding the timeline for implementation and release. However, you are welcome to submit a pull request to help!
+Feature requests are welcome! While we will consider all requests, we cannot guarantee your request will be accepted. We want to avoid [feature creep](https://en.wikipedia.org/wiki/Feature_creep){:target="_blank"}. Your idea may be great, but also out-of-scope for the project. If accepted, we cannot make any commitments regarding the timeline for implementation and release. However, you are welcome to submit a pull request to help!
 
 - **Do not open a duplicate feature request.** Search for existing feature requests first. If you find your feature (or one very similar) previously requested, comment on that issue.
 
@@ -52,9 +52,9 @@ You can triage issues which may include reproducing bug reports or asking for ad
 
 ## :repeat: Submitting Pull Requests
 
-We **love** pull requests! Before [forking the repo](https://help.github.com/en/github/getting-started-with-github/fork-a-repo) and [creating a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/proposing-changes-to-your-work-with-pull-requests) for non-trivial changes, it is usually best to first open an issue to discuss the changes, or discuss your intended approach for solving the problem in the comments for an existing issue.
+We **love** pull requests! Before [forking the repo](https://help.github.com/en/github/getting-started-with-github/fork-a-repo){:target="_blank"} and [creating a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/proposing-changes-to-your-work-with-pull-requests){:target="_blank"} for non-trivial changes, it is usually best to first open an issue to discuss the changes, or discuss your intended approach for solving the problem in the comments for an existing issue.
 
-For most contributions, after your first pull request is accepted and merged, you will be [invited to the project](https://help.github.com/en/github/setting-up-and-managing-your-github-user-account/inviting-collaborators-to-a-personal-repository) and given **push access**. :tada:
+For most contributions, after your first pull request is accepted and merged, you will be [invited to the project](https://help.github.com/en/github/setting-up-and-managing-your-github-user-account/inviting-collaborators-to-a-personal-repository){:target="_blank"} and given **push access**. :tada:
 
 *Note: All contributions will be licensed under the project's license.*
 
@@ -74,9 +74,9 @@ For most contributions, after your first pull request is accepted and merged, yo
 
 - **Update the CHANGELOG** for all enhancements and bug fixes. Include the corresponding issue number if one exists, and your GitHub username. (example: "- Fixed crash in profile view. #123 @username")
 
-- **Use the repo's default branch.** Branch from and [submit your pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request-from-a-fork) to the repo's default branch. Usually this is `main`, but it could be `dev`, `develop`, or `master`.
+- **Use the repo's default branch.** Branch from and [submit your pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request-from-a-fork){:target="_blank"} to the repo's default branch. Usually this is `main`, but it could be `dev`, `develop`, or `master`.
 
-- **[Resolve any merge conflicts](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/resolving-a-merge-conflict-on-github)** that occur.
+- **[Resolve any merge conflicts](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/resolving-a-merge-conflict-on-github){:target="_blank"}** that occur.
 
 - **Promptly address any CI failures**. If your pull request fails to build or pass tests, please push another commit to fix it.
 
@@ -90,7 +90,7 @@ For most contributions, after your first pull request is accepted and merged, yo
 
 ## :memo: Writing Commit Messages
 
-Please [write a great commit message](https://chris.beams.io/posts/git-commit/).
+Please [write a great commit message](https://chris.beams.io/posts/git-commit/){:target="_blank"}.
 
 1. Separate subject from body with a blank line
 1. Limit the subject line to 50 characters
@@ -163,7 +163,7 @@ By making a contribution to this project, I certify that:
 > 1. The contribution was provided directly to me by some other person who certified (1), (2) or (3) and I have not modified it.
 > 1. I understand and agree that this project and the contribution are public and that a record of the contribution (including all personal information I submit with it, including my sign-off) is maintained indefinitely and may be redistributed consistent with this project or the open source license(s) involved.
 
-## [No Brown M&M's](https://en.wikipedia.org/wiki/Van_Halen#Contract_riders)
+## [No Brown M&M's](https://en.wikipedia.org/wiki/Van_Halen#Contract_riders){:target="_blank"}v
 
 If you are reading this, bravo dear user and (hopefully) contributor for making it this far! You are awesome. :100:
 

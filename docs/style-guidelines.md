@@ -1,17 +1,17 @@
 # Standard Style Guidelines
 
-This document outlines the general conventions and formats that Decentralized-Geo follows, ensuring consistency across all of our repositories. 
+This document outlines the general conventions and formats that Decentralized-Geo follows, ensuring consistency across all of our repositories.
 
 > It may not be the case that a repository follows all of these guidelines. It will be noted in the repository's README if it does not.
 
 ## Documenting Code
 
-We generally follow the [Google Style](https://google.github.io/styleguide//) guidelines for commenting and documenting our code. This allows us to generate documentation from our codebase and helps us to maintain a consistent style across all of our repositories. Below are some links to some of the more common languages we use and their respective style guides:
+We generally follow the [Google Style](https://google.github.io/styleguide/){:target="_blank"} guidelines for commenting and documenting our code. This allows us to generate documentation from our codebase and helps us to maintain a consistent style across all of our repositories. Below are some links to some of the more common languages we use and their respective style guides:
 
-- [Python](https://google.github.io/styleguide/pyguide.html#38-comments-and-docstrings)
-  - The [following](https://sphinxcontrib-napoleon.readthedocs.io/en/latest/example_google.html) is an example of Google-style docstrings.
-- [JavasScript](https://google.github.io/styleguide/jsguide.html#jsdoc)
-- [TypeScript](https://google.github.io/styleguide/tsguide.html#comments-documentation)
+- [Python](https://google.github.io/styleguide/pyguide.html#38-comments-and-docstrings){:target="_blank"}
+  - The [following](https://sphinxcontrib-napoleon.readthedocs.io/en/latest/example_google.html){:target="_blank"} is an example of Google-style docstrings.
+- [JavasScript](https://google.github.io/styleguide/jsguide.html#jsdoc){:target="_blank"}
+- [TypeScript](https://google.github.io/styleguide/tsguide.html#comments-documentation){:target="_blank"}
 
 ## Naming Conventions
 
@@ -24,7 +24,7 @@ The following table outlines the different naming conventions we use for differe
 | TypeScript | camelCase()         | PascalCase  | PascalCase  | PascalCase  | SCREAMING_SNAKE_CASE |
 | JavaScript | camelCase()         | PascalCase  | PascalCase  | PascalCase  | SCREAMING_SNAKE_CASE |
 
-> Note sure what any of this means? Check out this [article](https://expertbeacon.com/coding-with-style-a-thorough-guide-to-programming-naming-conventions/) to learn more about naming conventions and how they're used.
+> Note sure what any of this means? Check out this [article](https://expertbeacon.com/coding-with-style-a-thorough-guide-to-programming-naming-conventions/){:target="_blank"} to learn more about naming conventions and how they're used.
 
 __Naming Best Practices:__
 
@@ -57,7 +57,7 @@ Start reading our code and you'll get the hang of it. We optimize for readabilit
 
 ## Version Control Workflow
 
-We follow the [Github Flow](https://docs.github.com/en/get-started/using-github/github-flow) methodology for version control management. Changes to a repository represent a "unit of work" where every change that's worked on is branched off of `main`. By "unit of work", we mean branches that represent feature development, bug fixes, or other changes that are related to a single issue. Once the work is complete, a pull request is opened and reviewed by at least one other team member before being merged back into `main`. If the repository uses production specific github actions, changes to `main` will trigger a build and deployment process.
+We follow the [Github Flow](https://docs.github.com/en/get-started/using-github/github-flow){:target="_blank"} methodology for version control management. Changes to a repository represent a "unit of work" where every change that's worked on is branched off of `main`. By "unit of work", we mean branches that represent feature development, bug fixes, or other changes that are related to a single issue. Once the work is complete, a pull request is opened and reviewed by at least one other team member before being merged back into `main`. If the repository uses production specific github actions, changes to `main` will trigger a build and deployment process.
 
 ### Development Standard Operating Procedures
 
@@ -66,11 +66,11 @@ We follow the [Github Flow](https://docs.github.com/en/get-started/using-github/
 > Add details here outlining a detailed example of how a developer would contribute to a repository following the Github Flow methodology.
 > Reference sources:
 >
-> - [pysal SOP](https://github.com/pysal/pysal/wiki/GitHub-Standard-Operating-Procedures)
-> - [Simple contribution steps](https://timothycrosley.github.io/examples/docs/contributing/1.-contributing-guide/#making-a-contribution)
-> - [First Contribution Outline](https://github.com/firstcontributions/first-contributions/blob/main/docs/cli-tool-tutorials/github-cli-tutorial.md)
->   - I like how there's [detailed outlines](https://github.com/firstcontributions/first-contributions/tree/main/docs) for contributions for different gui apps and the command line.
-> - [STAC FastAPI simple outline](https://github.com/stac-utils/stac-fastapi-pgstac/blob/main/CONTRIBUTING.md)
+> - [pysal SOP](https://github.com/pysal/pysal/wiki/GitHub-Standard-Operating-Procedures){:target="_blank"}
+> - [Simple contribution steps](https://timothycrosley.github.io/examples/docs/contributing/1.-contributing-guide/#making-a-contribution){:target="_blank"}
+> - [First Contribution Outline](https://github.com/firstcontributions/first-contributions/blob/main/docs/cli-tool-tutorials/github-cli-tutorial.md){:target="_blank"}
+>   - I like how there's [detailed outlines](https://github.com/firstcontributions/first-contributions/tree/main/docs){:target="_blank"} for contributions for different gui apps and the command line.
+> - [STAC FastAPI simple outline](https://github.com/stac-utils/stac-fastapi-pgstac/blob/main/CONTRIBUTING.md){:target="_blank"}
 >
 
 ## Development Environment
@@ -82,5 +82,5 @@ We follow the [Github Flow](https://docs.github.com/en/get-started/using-github/
 > We should also include a section on how to set up a development environment for our repositories in order to contribute.
 > Reference sources:
 >
-> - [GDAL Development Guides](https://gdal.org/en/stable/development/index.html#development)
+> - [GDAL Development Guides](https://gdal.org/en/stable/development/index.html#development){:target="_blank"}
 >

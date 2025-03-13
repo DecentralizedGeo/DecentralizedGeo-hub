@@ -54,7 +54,7 @@ plugins:
   search:
 
 nav: # Navigation links
-  - DecentralizedGeo-hub: index.md # Home page
+  - DecentralizedGeo: index.md # Home page
   - ipfs-stac:
       - Introduction: https://decentralizedgeo.github.io/ipfs-stac/
   - astral-api:

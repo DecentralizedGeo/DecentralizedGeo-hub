@@ -1,15 +1,14 @@
-# FastAPI
+# Decentralized Geospatial Hub
 
 <style>
 .md-content .md-typeset h1 { display: none; }
 </style>
 
-<p align="center">
-  <a href="https://decentralizedgeo.org/"><img src="https://avatars.githubusercontent.com/u/199006257?s=200&v=4" alt="Decentralized Geospatial Hub"></a>
-</p>
-<p align="center">
-    <em>A collection of resources for the Decentralized Geospatial ecosystem</em>
-</p>
+<div align="center">
+<a href="https://decentralizedgeo.org/" target="_blank"><img src="https://avatars.githubusercontent.com/u/199006257?s=150&v=4" /></a>
+  <h1>Decentralized Geospatial Hub</h1>
+  <p>A collection of resources for the Decentralized Geospatial ecosystem.</p>
+</div>
 
 ---
 
@@ -25,6 +24,6 @@ Don't know where to start? Check out the following resources:
 
 - [🚢 How to contribute](./contribute/contributing-guidelines.md)
 - [💅 Development guidelines](./style-guidelines.md)
-- [🔬 Research & Context](https://github.com/DecentralizedGeo/research)
+- [🔬 Research & Context](https://github.com/DecentralizedGeo/research){:target="_blank"}
 - 🔀 Flow Diagrams & User journeys
 - 🚀 UI Guidelines, Files and Mockups

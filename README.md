@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://decentralizedgeo.org/"><img src="https://avatars.githubusercontent.com/u/199006257?s=150&v=4" /></a>
+<a href="https://decentralizedgeo.org/" target="_blank"><img src="https://avatars.githubusercontent.com/u/199006257?s=150&v=4" /></a>
   <h1>Decentralized Geospatial Hub</h1>
   <p>A collection of resources for the Decentralized Geospatial ecosystem.</p>
 </div>
@@ -18,7 +18,7 @@ Don't know where to start? Check out the following resources:
 
 - [🚢 How to contribute](./docs/contribute/contributing-guidelines.md)
 - [💅 Development guidelines](./docs/style-guidelines.md)
-- [🔬 Research & Context](https://github.com/DecentralizedGeo/research)
+- [🔬 Research & Context](https://github.com/DecentralizedGeo/research){:target="_blank"}
 - 🔀 Flow Diagrams & User journeys
 - 🚀 UI Guidelines, Files and Mockups
 - [🎓 License](#-license)
@@ -27,4 +27,4 @@ Don't know where to start? Check out the following resources:
 
 All design work is licensed under the
 
-[MIT](https://mit-license.org/)[text](README.md)
+[MIT](https://mit-license.org/)

@@ -47,8 +47,8 @@ theme:
 extra_css:
   - stylesheets/extra.css
 
-repo_name: DecentralizedGeo/DecentralizedGeo-hub
-repo_url: https://github.com/DecentralizedGeo/DecentralizedGeo-hub
+repo_name: DecentralizedGeo
+repo_url: https://github.com/DecentralizedGeo
 plugins:
   # Material for MkDocs
   search:

@@ -1,0 +1,27 @@
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+[project]
+name = "decentralized-geospatial-hub"
+version = "0.2.0"
+description = "Deploying the decentralized geospatial hub documentation environment"
+authors = [{ name = "Decentralized Geospatial" }]
+license = { text = "MIT" }
+readme = "README.md"
+requires-python = ">=3.12,<4" # Specify your python version requirement here
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+dependencies = [
+    "mkdocs",
+    "mkdocs-material",
+    "mkdocstrings",
+    "mkdocstrings-python",
+]
+
+[tool.poetry]
+package-mode = false

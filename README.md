@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://en.wikipedia.org/wiki/Acme_Corporation"><img src="https://i.imgur.com/C3riAXH.png" /></a>
+<a href="https://decentralizedgeo.org/"><img src="https://avatars.githubusercontent.com/u/199006257?s=150&v=4" /></a>
   <h1>Decentralized Geospatial Hub</h1>
   <p>A collection of resources for the Decentralized Geospatial ecosystem.</p>
 </div>
@@ -8,9 +8,9 @@
 
 ## 👋 Welcome
 
-ACME is a product targeted to every single person on earth. Since we manufacture everything on our own our product range is very big and affecting billions of users.
+We focus on research, development, and technical community building.
 
-Essentially this section here should give people a blurb about your project, what it does and what the mission of it is.
+Our goal is to expand what's possible with digital geospatial technologies by conducting research, developing open source software, and engaging with the technical community. We seek to complement the existing state of the art in GIScience and location-based services, and we are actively researching how to build more secure location-based services for AI safety use cases.
 
 Don't know where to start? Check out the following resources:
 

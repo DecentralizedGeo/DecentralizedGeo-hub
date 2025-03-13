@@ -1,6 +1,6 @@
 # Contributing Guidelines
 
-*Pull requests, bug reports, and all other forms of contribution are welcomed and highly encouraged!* :octocat:
+*Pull requests, bug reports, and all other forms of contribution are welcomed and highly encouraged!*
 
 > **This guide serves to set clear expectations for everyone involved with the project so that we can improve it together while also creating a welcoming space for everyone to participate. Following these guidelines will help ensure a positive experience for contributors and maintainers.**
 
@@ -152,7 +152,7 @@ For example, if all private properties are prefixed with an underscore `_`, then
 
 When possible, style and format will be enforced with a linter.
 
-## :military_medal: Certificate of Origin
+## :trophy: Certificate of Origin
 
 *Developer's Certificate of Origin 1.1*
 

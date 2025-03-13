@@ -2,22 +2,21 @@ site_name: DecentralizedGeo-hub # Your project name
 site_description: A collection of resources for the Decentralized Geospatial ecosystem.
 
 theme:
+  # logo: https://avatars.githubusercontent.com/u/199006257?s=200&v=4
   name: material
   palette:
-    - media: "(prefers-color-scheme)"
-      toggle:
-        icon: material/lightbulb-auto
-        name: Switch to light mode
+    # - media: "(prefers-color-scheme)"
+    #   toggle:
+    #     icon: material/lightbulb-auto
+    #     name: Switch to light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: teal
       accent: amber
       toggle:
         icon: material/lightbulb
         name: Switch to dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: teal
       accent: amber
       toggle:
         icon: material/lightbulb-outline
@@ -44,6 +43,9 @@ theme:
     - search.share
     - search.suggest
     - toc.follow
+
+extra_css:
+  - stylesheets/extra.css
 
 repo_name: DecentralizedGeo/DecentralizedGeo-hub
 repo_url: https://github.com/DecentralizedGeo/DecentralizedGeo-hub

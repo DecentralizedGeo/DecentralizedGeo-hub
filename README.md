@@ -4,7 +4,7 @@
   <p>A collection of resources for the Decentralized Geospatial ecosystem.</p>
 </div>
 
-> **All participating designers are highly encouraged to shape and evolve this space!**
+> **All participating developers are highly encouraged to shape and evolve this space!**
 
 ## 👋 Welcome
 
@@ -16,8 +16,8 @@ Don't know where to start? Check out the following resources:
 
 ## 📖 Table of contents
 
-- [🚢 How to contribute](./contribute/contributing-guidelines.md)
-- [💅 Development guidelines](./style-guidelines.md)
+- [🚢 How to contribute](./docs/contribute/contributing-guidelines.md)
+- [💅 Development guidelines](./docs/style-guidelines.md)
 - [🔬 Research & Context](https://github.com/DecentralizedGeo/research)
 - [🔀 Flow Diagrams & User journeys](3-flow-diagrams-journeys/README.md)
 - [🚀 UI Guidelines, Files and Mockups](4-user-interface/README.md)

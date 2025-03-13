@@ -152,7 +152,7 @@ For example, if all private properties are prefixed with an underscore `_`, then
 
 When possible, style and format will be enforced with a linter.
 
-## :medal_sports: Certificate of Origin
+## :military_medal: Certificate of Origin
 
 *Developer's Certificate of Origin 1.1*
 

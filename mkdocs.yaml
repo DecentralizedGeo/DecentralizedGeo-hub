@@ -1,0 +1,87 @@
+site_name: DecentralizedGeo-hub # Your project name
+site_description: A collection of resources for the Decentralized Geospatial ecosystem.
+
+theme:
+  name: material
+  palette:
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/lightbulb-auto
+        name: Switch to light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: teal
+      accent: amber
+      toggle:
+        icon: material/lightbulb
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: teal
+      accent: amber
+      toggle:
+        icon: material/lightbulb-outline
+        name: Switch to system preference
+  features:
+    - content.code.annotate
+    - content.code.copy
+    # - content.code.select
+    - content.footnote.tooltips
+    - content.tabs.link
+    - content.tooltips
+    - navigation.footer
+    - navigation.indexes
+    - navigation.instant
+    - navigation.instant.prefetch
+    # - navigation.instant.preview
+    - navigation.instant.progress
+    - navigation.path
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
+    - navigation.tracking
+    - search.highlight
+    - search.share
+    - search.suggest
+    - toc.follow
+
+repo_name: DecentralizedGeo/DecentralizedGeo-hub
+repo_url: https://github.com/DecentralizedGeo/DecentralizedGeo-hub
+plugins:
+  # Material for MkDocs
+  search:
+
+nav: # Navigation links
+  - DecentralizedGeo-hub: index.md # Home page
+  - ipfs-stac:
+      - Introduction: https://decentralizedgeo.github.io/ipfs-stac/
+  - astral-api:
+      - Introduction: ./ecosystem/astral-api/index.md
+      - Getting Started: ./ecosystem/astral-api/getting-started.md
+      - API Reference: ./ecosystem/astral-api/api-reference.md
+      - Data Model: ./ecosystem/astral-api/data-model.md
+      - Spatial Queries: ./ecosystem/astral-api/spatial-queries.md
+      - Authentication: ./ecosystem/astral-api/authentication.md
+      - Troubleshooting: ./ecosystem/astral-api/troubleshooting.md
+      - OGC API: ./ecosystem/astral-api/ogc-api.md
+      - GraphQL API: ./ecosystem/astral-api/graphql-api.md
+      - Documentation Review: ./ecosystem/astral-api/documentation-review.md # If you want to include internal docs
+  - contribute:
+      - Contributing Guidelines: ./contribute/contributing-guidelines.md
+      - Style Guide: ./style-guidelines.md
+
+markdown_extensions:
+  - md_in_html:
+  - tables:
+  - toc:
+  - attr_list:
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences

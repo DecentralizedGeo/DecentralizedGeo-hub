@@ -19,8 +19,8 @@ Don't know where to start? Check out the following resources:
 - [🚢 How to contribute](./docs/contribute/contributing-guidelines.md)
 - [💅 Development guidelines](./docs/style-guidelines.md)
 - [🔬 Research & Context](https://github.com/DecentralizedGeo/research)
-- [🔀 Flow Diagrams & User journeys](3-flow-diagrams-journeys/README.md)
-- [🚀 UI Guidelines, Files and Mockups](4-user-interface/README.md)
+- 🔀 Flow Diagrams & User journeys
+- 🚀 UI Guidelines, Files and Mockups
 - [🎓 License](#-license)
 
 ## 🎓 License

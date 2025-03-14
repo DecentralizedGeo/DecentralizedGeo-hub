@@ -6,7 +6,7 @@
 
 ## :book: Code of Conduct
 
-Please review our Code of Conduct. It is in effect at all times. We expect it to be honored by everyone who contributes to this project. Acting like an asshole will not be tolerated.
+Please review our [Code of Conduct](CODE_OF_CONDUCT.md). It is in effect at all times. We expect it to be honored by everyone who contributes to this project. Acting like an asshole will not be tolerated.
 
 ## :bulb: Asking Questions
 

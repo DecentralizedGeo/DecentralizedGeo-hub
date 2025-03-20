@@ -7,7 +7,7 @@ slug: /getting-started
 
 # Getting Started with Astral API
 
-This guide will help you get started with the Astral Protocol API, a service for accessing location proof attestations from multiple blockchains.
+This guide will help you get started with the [Astral Protocol API](https://github.com/DecentralizedGeo/astral-api){:target="_blank"}, a service for accessing location proof attestations from multiple blockchains.
 
 ## What is Astral Protocol?
 

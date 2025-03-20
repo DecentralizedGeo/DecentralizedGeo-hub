@@ -5,9 +5,13 @@ sidebar_label: Introduction
 slug: /docs
 ---
 
-# Astral Protocol API Documentation
+# [Astral API](https://github.com/DecentralizedGeo/astral-api){:target="_blank"}
 
-Welcome to the Astral Protocol API documentation. This API provides access to location proof attestations across multiple blockchains, allowing developers to query, validate, and work with geographic location data that has been verified on the blockchain.
+A unified gateway for accessing location proof attestations (EAS attestations) across multiple blockchains. The API serves both OGC-compliant RESTful access for geospatial interoperability and a GraphQL interface for flexible queries.
+
+## Astral Protocol API Documentation
+
+Welcome to the [Astral Protocol API](https://github.com/DecentralizedGeo/astral-api){:target="_blank"} documentation. This API provides access to location proof attestations across multiple blockchains, allowing developers to query, validate, and work with geographic location data that has been verified on the blockchain.
 
 ## What is Astral Protocol?
 

@@ -12,13 +12,15 @@ We focus on research, development, and technical community building.
 
 Our goal is to expand what's possible with digital geospatial technologies by conducting research, developing open source software, and engaging with the technical community. We seek to complement the existing state of the art in GIScience and location-based services, and we are actively researching how to build more secure location-based services for AI safety use cases.
 
+Learn more about what we have been up to at the <a href="https://decentralizedgeo.github.io/DecentralizedGeo-hub/" target="_blank">Decentralized Geospatial Hub</a>.
+
 Don't know where to start? Check out the following resources:
 
 ## 📖 Table of contents
 
 - [🚢 How to contribute](./docs/contribute/contributing-guidelines.md)
 - [💅 Development guidelines](./docs/style-guidelines.md)
-- [🔬 Research & Context](https://osf.io/preprints/osf/bg2uq_v1){:target="_blank"}
+- 🔬 <a href="https://osf.io/preprints/osf/bg2uq_v1" target="_blank">Research & Context</a>
 - 🔀 Flow Diagrams & User journeys
 - 🚀 UI Guidelines, Files and Mockups
 - [🎓 License](#-license)

@@ -11,23 +11,16 @@ The overarching goal of Decentralized Geospatial Collaborative is to research an
 >
 > – <a href="https://diataxis.fr/" target="_blank">Diátaxis</a>
 
-<a href="https://diataxis.fr/" target="_blank">Diátaxis</a> is a documentation framework where user docs can be _arranged_ into one of four categories: tutorials, how-to guides, technical reference and explanation. They represent four different purposes or functions, and require four different approaches to their creation.
+<a href="https://diataxis.fr/" target="_blank">Diátaxis</a> is a documentation framework where user docs can be _arranged_ into one of four categories:
+
+- **tutorials**
+- **how-to guides**
+- **technical reference**
+- **explanation**
 
 Before you author documentation, I suggest reading <a href="https://diataxis.fr/start-here/" target="_blank">Start here - Diátaxis in five minutes</a> or watching its <a href="https://www.youtube.com/watch?v=t4vKPhjcMZg" target="_blank">accompanying video</a> (or even both, if you’re really keen).
 
-When you make a PR with new functionality, please include helpful documentation. By “helpful”, we mean that your documentation answers questions that users may have. For example:
-
-- What is this new functionality?
-
-- Why is it important?
-
-- How is it relevant?
-
-- What can I do with it? What are some real-world applications?
-
-- How do I use it to achieve those things?
-
-- … and others (if you can think of them, please add them here)
+The key insight is that by breaking content up in this way, each of the four types of documentation only has one job so it can really nail it. Plus, it makes it easier to find what you are looking for.
 
 ## Building your site
 

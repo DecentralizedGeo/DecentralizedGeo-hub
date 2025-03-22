@@ -52,13 +52,13 @@ You can triage issues which may include reproducing bug reports or asking for ad
 
 ## :repeat: Submitting Pull Requests
 
-Pull requests are the best way to propose changes to the codebase (we follow the <a href="https://docs.github.com/en/get-started/using-github/github-flow" target="_blank">Github workflow</a> methodology). We actively welcome your pull requests :smiley_cat:
+Pull requests are the best way to propose changes to the codebase. We actively welcome your pull requests :smiley_cat:
 
 Before [forking the repo](https://help.github.com/en/github/getting-started-with-github/fork-a-repo){:target="_blank"} and [creating a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/proposing-changes-to-your-work-with-pull-requests){:target="_blank"} for non-trivial changes, it is usually best to first open an issue to discuss the changes, or discuss your intended approach for solving the problem in the comments for an existing issue.
 
 For most contributions, after your first pull request is accepted and merged, you will be [invited to the project](https://help.github.com/en/github/setting-up-and-managing-your-github-user-account/inviting-collaborators-to-a-personal-repository){:target="_blank"} and given **push access**. :tada:
 
-We use the [GitHub Flow](https://guides.github.com/introduction/flow/){:target="_blank"} for managing changes. This means that you should:
+We use the <a href="https://docs.github.com/en/get-started/using-github/github-flow" target="_blank">Github workflow</a> methodology for managing changes. This means that you should:
 
 *Note: All contributions will be licensed under the project's license.*
 
@@ -74,7 +74,7 @@ We use the [GitHub Flow](https://guides.github.com/introduction/flow/){:target="
 
 - **Update the example project** if one exists to exercise any new functionality you have added.
 
-- **Add documentation.** Document your changes with code doc comments or in existing guides.
+- **Add documentation.** Document your changes with code doc comments or in existing guides. Take a peek at our [documentation guidelines](../documentation-guidelines.md) for guidance on writing helpful documentation.
 
 - **Update the CHANGELOG** for all enhancements and bug fixes. Include the corresponding issue number if one exists, and your GitHub username. (example: "- Fixed crash in profile view. #123 @username")
 

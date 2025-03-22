@@ -52,9 +52,13 @@ You can triage issues which may include reproducing bug reports or asking for ad
 
 ## :repeat: Submitting Pull Requests
 
-We **love** pull requests! Before [forking the repo](https://help.github.com/en/github/getting-started-with-github/fork-a-repo){:target="_blank"} and [creating a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/proposing-changes-to-your-work-with-pull-requests){:target="_blank"} for non-trivial changes, it is usually best to first open an issue to discuss the changes, or discuss your intended approach for solving the problem in the comments for an existing issue.
+Pull requests are the best way to propose changes to the codebase (we follow the <a href="https://docs.github.com/en/get-started/using-github/github-flow" target="_blank">Github workflow</a> methodology). We actively welcome your pull requests :smiley_cat:
+
+Before [forking the repo](https://help.github.com/en/github/getting-started-with-github/fork-a-repo){:target="_blank"} and [creating a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/proposing-changes-to-your-work-with-pull-requests){:target="_blank"} for non-trivial changes, it is usually best to first open an issue to discuss the changes, or discuss your intended approach for solving the problem in the comments for an existing issue.
 
 For most contributions, after your first pull request is accepted and merged, you will be [invited to the project](https://help.github.com/en/github/setting-up-and-managing-your-github-user-account/inviting-collaborators-to-a-personal-repository){:target="_blank"} and given **push access**. :tada:
+
+We use the [GitHub Flow](https://guides.github.com/introduction/flow/){:target="_blank"} for managing changes. This means that you should:
 
 *Note: All contributions will be licensed under the project's license.*
 
@@ -163,7 +167,7 @@ By making a contribution to this project, I certify that:
 > 1. The contribution was provided directly to me by some other person who certified (1), (2) or (3) and I have not modified it.
 > 1. I understand and agree that this project and the contribution are public and that a record of the contribution (including all personal information I submit with it, including my sign-off) is maintained indefinitely and may be redistributed consistent with this project or the open source license(s) involved.
 
-## [No Brown M&M's](https://en.wikipedia.org/wiki/Van_Halen#Contract_riders){:target="_blank"}v
+## [No Brown M&M's](https://en.wikipedia.org/wiki/Van_Halen#Contract_riders){:target="_blank"}
 
 If you are reading this, bravo dear user and (hopefully) contributor for making it this far! You are awesome. :100:
 

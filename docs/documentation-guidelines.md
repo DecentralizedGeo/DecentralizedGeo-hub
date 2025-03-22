@@ -26,13 +26,19 @@ The key insight is that by breaking content up in this way, each of the four typ
 
 Our documentation is built using <a href="https://mkdocs.org/" target="_blank">MkDocs</a> with the <a href="https://https://squidfunk.github.io/mkdocs-material/" target="_blank">Material mkdocs theme</a>.
 
+To get started, you will need to <a href="https://www.mkdocs.org/user-guide/installation/" target="_blank">install MkDocs</a> and the Material theme plugin. You can do this by running the following pip command:
+
+```bash
+pip install mkdocs mkdocs-material
+```
+
 Documentation source files are written in Markdown, stored in a directory named `docs` and configured with a single YAML configuration file. Typically, the configuration file is named `mkdocs.yml` and is located in the root of the project. If it is not, you can specify the configuration file with the `-f` flag when running the `mkdocs` command.
 
 ```bash
 mkdocs build -f path/to/mkdocs.yml
 ```
 
-When you run `mkdocs build`, the documentation is generated as a static site in a directory named `site`. 
+When you run `mkdocs build`, the documentation is generated as a static site in a directory named `site`.
 
 After the documentation is built, it's recommend that you view the site locally to ensure that it looks as expected. To do this,
 

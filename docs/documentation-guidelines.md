@@ -2,7 +2,7 @@
 
 ## Background
 
-The overarching goal of Decentralized Geospatial Collaborative is to research and develop the tooling and application interface on top of the decentralized web. Documentation is also apart of that exploration as without good documentation, users are not able to unlock or understand the full potential of decentralization. Therefore, authoring new documentation and improving existing documentation is of great value to the Decentralized Geospatial Collaborative.
+The overarching goal of Decentralized Geospatial Collaborative is to research and develop the tooling and applications to be used on top of the decentralized web. Documentation is also apart of that exploration as without good documentation, users are not able to unlock or understand the full potential of decentralization. Therefore, authoring new documentation and improving existing documentation is of great value to the Decentralized Geospatial Collaborative.
 
 ## The Documentation System
 

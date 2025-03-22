@@ -68,16 +68,19 @@ nav: # Navigation links
       - OGC API: ./ecosystem/astral-api/ogc-api.md
       - GraphQL API: ./ecosystem/astral-api/graphql-api.md
       - Documentation Review: ./ecosystem/astral-api/documentation-review.md # If you want to include internal docs
-  - astral-logbook:
+  - Astral Logbook:
       - Introduction: ./ecosystem/astral-logbook/index.md
       - Getting Started: ./ecosystem/astral-logbook/getting-started.md
       - Technology Stack: ./ecosystem/astral-logbook/technology-stack.md
       - Prerequisites: ./ecosystem/astral-logbook/prerequisites.md
       - Deployment Guide: ./ecosystem/astral-logbook/deployment-guide.md
       - Troubleshooting: ./ecosystem/astral-logbook/troubleshooting.md
-  - contribute:
+  - Contribute:
       - Contributing Guidelines: ./contribute/contributing-guidelines.md
       - Style Guide: ./style-guidelines.md
+      - Documention Guide: ./documentation-guidelines.md
+      - Support: ./contribute/support.md
+      - Code of Conduct: ./contribute/CODE_OF_CONDUCT.md
 
 markdown_extensions:
   - md_in_html:

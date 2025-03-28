@@ -1,0 +1,5 @@
+# Tech Stack
+
+![1743131205467](image/tech-stack/1743131205467.png)
+
+The figure above showcases how all the components behind the dashboard are interconnected. Traversing the visual from left-to-right highlights how inputs connect to components on the backend. Users begin with pointing the dashboard to a STAC API enriched with IPFS and Filecoin metadata along with a Geojson. Upon entering these details, a map topology that parallels the inputted geojson is rendered. The map is configured to handle interactions from the user such as clicking on geometry, buttons on pop-ups, and more. The various interactions all trigger event listeners to communicate with the backend infrastructure to fetch the accompanying metadata and other details. Svelte accesses this metadata through three channels, Kubo ([https://github.com/ipfs/kubo](https://github.com/ipfs/kubo)), the configured STAC API, and another API which poses as a middle man between the dashboard and other resources such as CID.Contact ([https://cid.contact/](https://cid.contact/)).

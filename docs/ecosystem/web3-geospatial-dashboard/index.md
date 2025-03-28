@@ -26,7 +26,6 @@ With the suite of tools that complement the dashboard, users can:
 - [Prerequisites](./prerequisites.md)
 - [Technology Stack](./tech-stack.md)
 - [Featires](./features.md)
-- [Troubleshooting](./troubleshooting.md)
 
 ## Useful Links
 

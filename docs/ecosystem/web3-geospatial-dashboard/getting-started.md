@@ -21,8 +21,10 @@ To add the extension, you must first [enable developer mode](https://developer.c
 
 ### Setting up development environment for dashboard
 
-To get a local server running the dashboard, 
+To get a local server running the dashboard,
+
 1. First create a terminal in the root directory of the Dashboard repository and install the libraries with `npm install`
+
 2. To run the development server, run `npm run dev`
 
 ### Node Configuration
@@ -34,4 +36,5 @@ In order to properly fetch metadata from IPFS such as the number of nodes that h
 If you have questions or run into issues with the API, please:
 
 1. Create an issue in the [GitHub repository](https://github.com/DecentralizedGeo/web3-geo-dashboard)
+
 2. Reach out to the team through [our community channels](https://github.com/DecentralizedGeo/web3-geo-dashboard)

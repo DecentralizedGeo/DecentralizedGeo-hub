@@ -22,7 +22,6 @@ Don't know where to start? Check out the following resources:
 - 💅 [Development guidelines](./docs/style-guidelines.md)
 - 📚 [Documentation guidelines](./documentation-guidelines.md)
 - 🔬 <a href="https://osf.io/preprints/osf/bg2uq_v1" target="_blank">Research & Context</a>
-- 🔬 [Research & Context](https://osf.io/preprints/osf/bg2uq_v1){:target="_blank"}
 - 🔀 Flow Diagrams & User journeys
 - 🚀 UI Guidelines, Files and Mockups
 - 🎓 [License](#-license)

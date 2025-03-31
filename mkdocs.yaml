@@ -63,6 +63,7 @@ nav: # Navigation links
       - Getting Started: ./ecosystem/web3-geospatial-dashboard/getting-started.md
       - How-to-Guides:
           - Features: ./ecosystem/web3-geospatial-dashboard/features.md
+          - Veda Integration: ./ecosystem/web3-geospatial-dashboard/veda.md
       - Reference:
           - Tech Stack: ./ecosystem/web3-geospatial-dashboard/tech-stack.md
           - Prerequisites: ./ecosystem/web3-geospatial-dashboard/prerequisites.md

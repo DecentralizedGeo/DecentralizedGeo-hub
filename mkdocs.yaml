@@ -57,6 +57,12 @@ nav: # Navigation links
   - DecentralizedGeo: index.md # Home page
   - ipfs-stac:
       - Introduction: https://decentralizedgeo.github.io/ipfs-stac/
+  - Web3 Geo-Dashboard:
+      - Introduction: ./ecosystem/web3-geospatial-dashboard/index.md
+      - Getting Started: ./ecosystem/web3-geospatial-dashboard/getting-started.md
+      - features: ./ecosystem/web3-geospatial-dashboard/features.md
+      - Technology Stack: ./ecosystem/web3-geospatial-dashboard/tech-stack.md
+      - Prerequisites: ./ecosystem/web3-geospatial-dashboard/prerequisites.md
   - astral-api:
       - Introduction: ./ecosystem/astral-api/index.md
       - Getting Started: ./ecosystem/astral-api/getting-started.md

@@ -15,8 +15,8 @@ With the suite of tools that complement the dashboard, users can:
 - View pinning status of data on IPFS
 - View asset metadata of scenes from a web3 enriched STAC API
 - Hotswap STAC APIs
-- Pin data
-- Download Data
+- Pin Content to your local IPFS Node
+- Download geospatial content from IPFS
 - Export selected subsets to GeoJSON
 - Export NASA VEDA frontmatter templates
 
@@ -25,7 +25,7 @@ With the suite of tools that complement the dashboard, users can:
 - [Getting started](./getting-started.md)
 - [Prerequisites](./prerequisites.md)
 - [Technology Stack](./tech-stack.md)
-- [Featires](./features.md)
+- [Features](./features.md)
 
 ## Useful Links
 
@@ -36,5 +36,3 @@ With the suite of tools that complement the dashboard, users can:
 |  [Web3 Geo Extension](https://github.com/DecentralizedGeo/web3-geo-extension)   | Repository of complementary dashboard chrome extension (REQUIRED) |
 | [Web3 Dashboard API](https://github.com/DecentralizedGeo/easier-dashboard-api)  | Repository of API that serves IPFS metadata                       |
 |                    [VEDA Integration](./docs/veda.md)                     | Walkthrough of exporting NASA VEDA Frontmatter                    |
-
-

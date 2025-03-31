@@ -33,5 +33,5 @@ Don't know where to start? Check out the following resources:
 
 - <a href="https://decentralizedgeo.github.io/ipfs-stac/" target="_blank">ipfs-stac Python library</a>
 - [Web3 Geo-Dashboard](./ecosystem/web3-geospatial-dashboard/index.md)
-- [Astral Logbook](./ecosystem/astral-logbook/index.md)
+- [Decentralized Location Logger](./ecosystem/decentralized-location-logger/index.md)
 - [Astral API](./ecosystem/astral-api/index.md)

@@ -1,6 +1,6 @@
-# 🧭 Astral Logbook
+# 🧭 Decentralized Location Logger
 
-The Astral Logbook is a decentralized application built on Astral's Location Proof Protocol.
+The Decentralized Location Logger is an application built on Astral's Location Proof Protocol.
 
 With the Logbook, users can:
 

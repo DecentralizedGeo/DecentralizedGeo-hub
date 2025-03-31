@@ -67,7 +67,6 @@ nav: # Navigation links
       - Reference:
           - Tech Stack: ./ecosystem/web3-geospatial-dashboard/tech-stack.md
           - Prerequisites: ./ecosystem/web3-geospatial-dashboard/prerequisites.md
-
   - astral-api:
       - Introduction: ./ecosystem/astral-api/index.md
       - Getting Started: ./ecosystem/astral-api/getting-started.md
@@ -79,13 +78,13 @@ nav: # Navigation links
       - OGC API: ./ecosystem/astral-api/ogc-api.md
       - GraphQL API: ./ecosystem/astral-api/graphql-api.md
       - Documentation Review: ./ecosystem/astral-api/documentation-review.md # If you want to include internal docs
-  - Astral Logbook:
-      - Introduction: ./ecosystem/astral-logbook/index.md
-      - Getting Started: ./ecosystem/astral-logbook/getting-started.md
-      - Technology Stack: ./ecosystem/astral-logbook/technology-stack.md
-      - Prerequisites: ./ecosystem/astral-logbook/prerequisites.md
-      - Deployment Guide: ./ecosystem/astral-logbook/deployment-guide.md
-      - Troubleshooting: ./ecosystem/astral-logbook/troubleshooting.md
+  - Decentralized Location Logger:
+      - Introduction: ./ecosystem/decentralized-location-logger/index.md
+      - Getting Started: ./ecosystem/decentralized-location-logger/getting-started.md
+      - Technology Stack: ./ecosystem/decentralized-location-logger/technology-stack.md
+      - Prerequisites: ./ecosystem/decentralized-location-logger/prerequisites.md
+      - Deployment Guide: ./ecosystem/decentralized-location-logger/deployment-guide.md
+      - Troubleshooting: ./ecosystem/decentralized-location-logger/troubleshooting.md
   - Contribute:
       - Contributing Guidelines: ./contribute/contributing-guidelines.md
       - Style Guide: ./style-guidelines.md

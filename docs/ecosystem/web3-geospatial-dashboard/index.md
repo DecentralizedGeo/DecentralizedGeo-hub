@@ -20,13 +20,6 @@ With the suite of tools that complement the dashboard, users can:
 - Export selected subsets to GeoJSON
 - Export NASA VEDA frontmatter templates
 
-## Documentation
-
-- [Getting started](./getting-started.md)
-- [Prerequisites](./prerequisites.md)
-- [Technology Stack](./tech-stack.md)
-- [Features](./features.md)
-
 ## Useful Links
 
 |                                   Name                                    | Description                                                       |

@@ -81,10 +81,12 @@ nav: # Navigation links
   - Decentralized Location Logger:
       - Introduction: ./ecosystem/decentralized-location-logger/index.md
       - Getting Started: ./ecosystem/decentralized-location-logger/getting-started.md
-      - Technology Stack: ./ecosystem/decentralized-location-logger/technology-stack.md
-      - Prerequisites: ./ecosystem/decentralized-location-logger/prerequisites.md
-      - Deployment Guide: ./ecosystem/decentralized-location-logger/deployment-guide.md
-      - Troubleshooting: ./ecosystem/decentralized-location-logger/troubleshooting.md
+      - How-to-Guides:
+          - Deployment Guide: ./ecosystem/decentralized-location-logger/deployment-guide.md
+      - Reference:
+          - Technology Stack: ./ecosystem/decentralized-location-logger/technology-stack.md
+          - Prerequisites: ./ecosystem/decentralized-location-logger/prerequisites.md
+          - Troubleshooting: ./ecosystem/decentralized-location-logger/troubleshooting.md
   - Contribute:
       - Contributing Guidelines: ./contribute/contributing-guidelines.md
       - Style Guide: ./style-guidelines.md

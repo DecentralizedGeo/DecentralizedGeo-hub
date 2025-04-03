@@ -57,7 +57,12 @@ plugins:
 nav: # Navigation links
   - DecentralizedGeo: index.md # Home page
   - ipfs-stac:
-      - Introduction: https://decentralizedgeo.github.io/ipfs-stac/
+      - Introduction: ./ecosystem/ipfs-stac/index.md
+      - How-to-Guides:
+          - Examples: ./ecosystem/ipfs-stac/examples.md
+          - How to Install: ./ecosystem/ipfs-stac/how-to-install.md
+      - Reference:
+          - Client Module: ./ecosystem/ipfs-stac/client.md
   - Web3 Geo-Dashboard:
       - Introduction: ./ecosystem/web3-geospatial-dashboard/index.md
       - Getting Started: ./ecosystem/web3-geospatial-dashboard/getting-started.md

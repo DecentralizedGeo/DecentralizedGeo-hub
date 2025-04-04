@@ -96,3 +96,6 @@ cython_debug/
 
 # Vscode
 .vscode/
+
+# Misc files to keep locally but do not need to be committed
+storage-bin/

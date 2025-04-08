@@ -28,4 +28,3 @@ With the suite of tools that complement the dashboard, users can:
 |<a href="https://docs.ipfs.tech/reference/kubo/rpc/" Target="_blank">Kubo RPC API</a> | Documentation for the API opened by IPFS nodes running Kubo                       |
 |<a href="https://github.com/DecentralizedGeo/web3-geo-dashboard" Target="_blank">IPFS Desktop Installation</a> | Installation for IPFS Desktop, to easily spin up an IPFS node                      |
 |<a href="https://github.com/DecentralizedGeo/web3-geo-extension" Target="_blank">Web3 Geo Extension</a> | Repository of complementary dashboard chrome extension                        |
-|<a href="https://github.com/DecentralizedGeo/easier-dashboard-api" Target="_blank">Web3 Dashboard API</a> | Repository of API that serves IPFS metadata                        |

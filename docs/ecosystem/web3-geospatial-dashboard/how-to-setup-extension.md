@@ -10,7 +10,7 @@ This page assumes you have already set up a node that exposes a Kubo RPC API. Th
 
 First, clone the [web3-geo-extension repository](https://github.com/DecentralizedGeo/web3-geo-extension).
 
-In a fresh Chrome window, click on the top right 3 dots and hover over **E****xtensions.** In the popup, click on **Manage Extensions**.
+In a fresh Chrome window, click on the top right 3 dots and hover over **Extensions.** In the popup, click on **Manage Extensions**.
 
 ![1744080995167](image/how-to-setup-extension/1744080995167.png)
 

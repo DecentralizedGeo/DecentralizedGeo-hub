@@ -12,13 +12,6 @@ The Web3 Geospatial Dashboard and its components (dashboard API, and chrome exte
 
 To get pull the [Dashboard Repository](https://github.com/DecentralizedGeo/web3-geo-dashboard) and [Chrome Extension](https://github.com/DecentralizedGeo/web3-geo-extension) into folders.
 
-### Adding the extension
-
-To add the extension, you must first [enable developer mode](https://developer.chrome.com/docs/extensions/get-started/tutorial/hello-world#load-unpacked) on Chrome.
-
-1. Click on **Load Unpacked**
-2. Locate the folder in which the chrome extension was pulled.
-
 ### Setting up development environment for dashboard
 
 To get a local server running the dashboard,
@@ -30,6 +23,17 @@ To get a local server running the dashboard,
 ### Node Configuration
 
 In order to properly fetch metadata from IPFS such as the number of nodes that have a CID pinned as well as other interactions, you must have a properly configured IPFS node. To accept requests from the dashboard, update the `Access-Control-Allow-Origin` array under `HTTPHeaders` under `API`. For local development, add `http://127.0.0.1`, alternatively, you can accept requests from everywhere with `*` (this poses a security risk, do it at your own discretion)
+
+Check out the [IPFS Desktop Setup guide](https://docs.ipfs.tech/concepts/ipfs-desktop/) for more details on how to set up a local IPFS node on your machine using IPFS Desktop.
+
+### Adding the extension
+
+To add the extension, you must first [enable developer mode](https://developer.chrome.com/docs/extensions/get-started/tutorial/hello-world#load-unpacked) on Chrome.
+
+1. Click on **Load Unpacked**
+2. Locate the folder in which the chrome extension was pulled.
+
+Check out the [Configure Browser Extension guide](how-to-setup-extension.md) for more details on how to set up the extension.
 
 ## Getting Help
 

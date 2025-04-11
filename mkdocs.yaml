@@ -69,6 +69,8 @@ nav: # Navigation links
       - How-to-Guides:
           - Features: ./ecosystem/web3-geospatial-dashboard/features.md
           - Veda Integration: ./ecosystem/web3-geospatial-dashboard/veda.md
+          - Configure Browser Extension: ./ecosystem/web3-geospatial-dashboard/how-to-setup-extension.md
+          - Configure IPFS Desktop: ./ecosystem/web3-geospatial-dashboard/how-to-setup-ipfs-desktop.md
       - Reference:
           - Tech Stack: ./ecosystem/web3-geospatial-dashboard/tech-stack.md
           - Prerequisites: ./ecosystem/web3-geospatial-dashboard/prerequisites.md

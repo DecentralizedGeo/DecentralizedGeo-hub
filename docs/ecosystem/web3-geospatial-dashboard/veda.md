@@ -1,6 +1,6 @@
 # NASA Veda Support
 
-The Visualization, Exploration, and Data Analysis (VEDA) project by NASA is a project built by the Earthdata team to support dataset processing, vusalization, and exploration. One of the key interests of the EASIER team is to enable the geospatial dashboard to seamlessly integrate with other projects in a loosely coupled manner. One way we have demonstrated this is the ability to export a dataset to VEDA frontmatter. The following will walk through the usage of this component.
+The <a href="https://www.earthdata.nasa.gov/dashboard/" Target="_blank">Visualization, Exploration, and Data Analysis (VEDA) project</a> by NASA is a project built by the Earthdata team to support dataset processing, vusalization, and exploration. One of the key interests of the EASIER team is to enable the geospatial dashboard to seamlessly integrate with other projects in a loosely coupled manner. One way we have demonstrated this is the ability to export a dataset to VEDA frontmatter. The following will walk through the usage of this component.
 
 ## Component Overview
 

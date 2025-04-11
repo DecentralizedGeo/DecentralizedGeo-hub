@@ -9,12 +9,12 @@ Before you begin working with the geospatial dashboard, ensure you have the foll
 ## Setting Up Your Environment
 
 1. **Install Node.js**
-   - Download and install from [nodejs.org](https://nodejs.org/)
+   - Download and install from <a href="https://nodejs.org/" target="_blank">nodejs.org</a>
    - Verify installation: `node --version`
 
 2. **Install Git**
-   - Download and install from [git-scm.com](https://git-scm.com/downloads)
+   - Download and install from <a href="https://git-scm.com/downloads" target="_blank">git-scm.com</a>
    - Verify installation: `git --version`
 
 3. **Install Chrome**
-   - Install the [Chrome Browser](https://www.google.com/chrome/) if you have not already.
+   - Install the <a href="https://www.google.com/chrome/" target="_blank">Chrome Browser</a> if you have not already.

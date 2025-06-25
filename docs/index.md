@@ -16,7 +16,7 @@
 
 We focus on research, development, and community building.
 
-Our goal is to expand what's possible on with geospatial information on the web. We seek to complement the existing state of the art in GIScience,  geospatial technology, and location-based services, and we are actively researching how to build more decentralized geospatial web to improve security, privacy, transparency, trust, and more.
+Our goal is to expand what's possible on with geospatial information on the web. We seek to complement the existing state of the art in GIScience, geospatial technology, and location-based services, and we are actively researching how to build more decentralized geospatial web to improve security, privacy, transparency, trust, and more.
 
 Don't know where to start? Check out the following resources:
 
@@ -35,3 +35,4 @@ Don't know where to start? Check out the following resources:
 - [Web3 Geo-Dashboard](./ecosystem/web3-geospatial-dashboard/index.md)
 - [Decentralized Location Logger](./ecosystem/decentralized-location-logger/index.md)
 - [Astral API](./ecosystem/astral-api/index.md)
+- [Astral SDK](./ecosystem/astral-sdk/index.md)

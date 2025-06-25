@@ -85,6 +85,12 @@ nav: # Navigation links
       - OGC API: ./ecosystem/astral-api/ogc-api.md
       - GraphQL API: ./ecosystem/astral-api/graphql-api.md
       - Documentation Review: ./ecosystem/astral-api/documentation-review.md # If you want to include internal docs
+  - astral-sdk:
+      - Introduction: ./ecosystem/astral-sdk/index.md
+      - Core Concepts: ./ecosystem/astral-sdk/core-concepts/index.md
+      - Quick Start: ./ecosystem/astral-sdk/quick-start/index.md
+      - How-to-Guides: ./ecosystem/astral-sdk/guides/getting-started.md
+      - Extensions: ./ecosystem/astral-sdk/extensions.md
   - Decentralized Location Logger:
       - Introduction: ./ecosystem/decentralized-location-logger/index.md
       - Getting Started: ./ecosystem/decentralized-location-logger/getting-started.md
